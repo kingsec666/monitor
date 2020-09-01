@@ -23,7 +23,7 @@
                 <servlet.version>3.1.0</servlet.version>
                 <fastjson.version>1.2.7</fastjson.version>
                 <!--validator-->
-                <validator.version>4.3.2.Final</validator.version>
+                <validator.version>5.3.6.Final</validator.version>
                 <!--validator end-->
                 <!--cat-->
                 <gson.version>1.6</gson.version>
